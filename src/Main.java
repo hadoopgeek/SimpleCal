@@ -7,6 +7,9 @@ public class Main
 	{
 		System.out.println("Enter the Option");
 		System.out.println("1 Add");
+		System.out.println("2 Subtraction");
+		System.out.println("3 Division");
+		
 		Scanner sc = new Scanner(System.in);
 		int input = sc.nextInt();
 			
